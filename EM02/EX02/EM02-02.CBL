@@ -1,6 +1,6 @@
        IDENTIFICATION  DIVISION.
        PROGRAM-ID.     EM02-02.
-       AUTHOR.         KARINNA.
+       AUTHOR.         G.
        INSTALLATION.   FATEC-SP
        DATE-WRITTEN.   17/04/2022.
        DATE-COMPILED.
